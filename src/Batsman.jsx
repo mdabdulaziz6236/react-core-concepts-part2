@@ -22,7 +22,7 @@ export default function Batsman(){
     return(
         <div>
 
-            <h1>Player: Bangla Batsman</h1>
+            <h3>Player: Bangla Batsman</h3>
             { 
                 runs>50 && <p>your run 50</p>
                 

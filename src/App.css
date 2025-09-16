@@ -40,3 +40,18 @@
 .read-the-docs {
   color: #888;
 }
+.card {
+border: 2px solid rgb(28, 187, 99);
+margin : 10px ;
+padding : 10px ;
+border-radius: 20px;
+
+}
+.card2 {
+border: 2px solid rgb(28, 187, 99);
+margin : 10px ;
+padding : 10px ;
+border-radius: 20px;
+background-color: rgb(47, 255, 0) ;
+color: rgb(75, 22, 159);
+}
